@@ -1,0 +1,467 @@
+{
+	"bookmarks": [
+		{
+			"title": "World Bank Development Sprint",
+			"author": {
+				"name": "Artem Zubkov",
+				"url": "http://artzub.com/"
+			},
+			"desc": "Dynamic and interactive geo-visualization of World Bank development contracts.",
+			"type": [
+				"map"
+			],
+			"technologies": [
+				"D3.js",
+				"JavaScript"
+			],
+			"url": "http://artzub.com/d3/wbca/",
+			"data": [
+				{
+					"url": "http://visualizing.org/data/channels/world-bank"
+				}
+			],
+			"tags": [],
+			"thumbnail": ""
+		},
+		{
+			"title": "Github Visualizer",
+			"author": {
+				"name": "Artem Zubkov",
+				"url": "http://artzub.com/"
+			},
+			"desc": "Interactive visualization of Github commits and collaborations.",
+			"type": [
+				"force"
+			],
+			"technologies": [
+				"D3.js",
+				"JavaScript"
+			],
+			"url": "http://artzub.com/ghv/#repo=d3&climit=100&user=mbostock",
+			"data": [
+				{
+					"url": "http://developer.github.com/"
+				}
+			],
+			"tags": [],
+			"thumbnail": ""
+		},
+		{
+			"title": "Tweetping",
+			"author": {
+				"name": "Franck Ernewein",
+				"url": "http://franckernewein.com/"
+			},
+			"desc": "Real-time geo-visualization of Twitter tweets obtained through the public API. Note that the tweets displayed are only a random sample of all tweets and not the entire fire hose.",
+			"type": [
+				"map"
+			],
+			"technologies": [
+				"Processing.js",
+				"JavaScript",
+				"Nodejs",
+				"Socket.io",
+				"Backbone.js"
+			],
+			"url": "http://tweetping.net/",
+			"data": [
+				{
+					"url": "https://dev.twitter.com/docs/streaming-apis/streams/public"
+				}
+			],
+			"tags": [],
+			"thumbnail": ""
+		},
+		{
+			"title": "Worldwide Remittance Flows",
+			"author": {
+				"name": "Tages Woche",
+				"url": "http://www.tageswoche.ch/"
+			},
+			"desc": "Interactive geo-visualization using bubble charts and time series.",
+			"type": [
+				"map",
+				"time-series",
+				"infographic"
+			],
+			"technologies": [
+				"D3.js",
+				"JavaScript"
+			],
+			"data": [
+				{
+					"url": "http://stats.oecd.org/Index.aspx?DataSetCode=REF_TOTAL_ODF#"
+				},
+				{
+					"url": "http://data.worldbank.org/data-catalog/global-bilateral-migration-database"
+				},
+				{
+					"url": "http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/EXTDECPROSPECTS/0,,contentMDK:22759429~pagePK:64165401~piPK:64165026~theSitePK:476883,00.html"	
+				}
+			],
+			"tags": [],
+			"thumbnail": ""
+		},
+		{
+			"title": "Gapminder",
+			"author": {
+				"name": "Hans Rosling",
+				"url": "http://www.gapminder.org"
+			},
+			"desc": "Classic visualization. See Hans Rosling's TED talk for more info.",
+			"type": [
+				"time-series",
+				"bubble"
+			],
+			"technologies": [
+				"Flash",
+				"ActionScript"
+			],
+			"url": "http://www.gapminder.org/world/#$majorMode=chart$is;shi=t;ly=2003;lb=f;il=t;fs=11;al=30;stl=t;st=t;nsl=t;se=t$wst;tts=C$ts;sp=5.59290322580644;ti=2011$zpv;v=0$inc_x;mmid=XCOORDS;iid=phAwcNAVuyj1jiMAkmq1iMg;by=ind$inc_y;mmid=YCOORDS;iid=phAwcNAVuyj2tPLxKvvnNPA;by=ind$inc_s;uniValue=8.21;iid=phAwcNAVuyj0XOoBL_n5tAQ;by=ind$inc_c;uniValue=255;gid=CATID0;by=grp$map_x;scale=log;dataMin=283;dataMax=110808$map_y;scale=lin;dataMin=18;dataMax=87$map_s;sma=49;smi=2.65$cd;bd=0$inds=;example=75",
+			"data": [
+				{
+					"url": "http://www.gapminder.org/data/"
+				}
+			],
+			"tags": [],
+			"thumbnail": ""
+		},
+		{
+			"title": "The Wealth and Health of Nations",
+			"author": {
+				"name": "Mike Bostock",
+				"url": "http://www.bost.ocks.org/mike/"
+			},
+			"desc": "Recreation of Hans Rosling's Gapminder visualization using D3.js.",
+			"type": [
+				"time-series",
+				"bubble"
+			],
+			"technologies": [
+				"D3.js",
+				"JavaScript"
+			],
+			"url": "http://bost.ocks.org/mike/nations/",
+			"data": [
+				{
+					"url": "http://www.gapminder.org/data/"
+				}
+			],
+			"tags": [],
+			"thumbnail": ""
+		},
+		{
+			"title": "Small Arms Imports and Exports",
+			"author": {
+				"name": "Google",
+				"url": "http://workshop.chromeexperiments.com/"
+			},
+			"desc": "Interactive globe showig small arms trade among countries.",
+			"type": [
+				"map",
+				"time-series"
+			],
+			"technologies": [
+				"WebGL",
+				"JavaScript"
+			],
+			"url": "http://workshop.chromeexperiments.com/projects/armsglobe/",
+			"data": [
+				{
+					"url": "https://github.com/dataarts/armsglobe/tree/master/categories"
+				}
+			],
+			"tags": [],
+			"thumbnail": ""
+		},
+		{
+			"title": "Evolution of the Web",
+			"author": {
+				"name": "Google",
+				"url": "http://www.evolutionoftheweb.com/"
+			},
+			"desc": "Interactive flow diagram showcasing the history of web technologies.",
+			"type": [
+				"flow-diagram"
+			],
+			"technologies": [
+				"HTML5",
+				"JavaScript"
+			],
+			"url": "http://www.evolutionoftheweb.com/",
+			"data": [
+				{
+					"url": ""
+				}
+			],
+			"tags": [],
+			"thumbnail": ""
+		},
+		{
+			"title": "Where Does My Money Go?",
+			"author": {
+				"name": "Open Knowledge Foundation",
+				"url": "http://okfn.org/"
+			},
+			"desc": "Open data visualization which makes tax data and goverment spending more concrete. Excellent use of open data and visualization to personalize abstract concepts.",
+			"type": [
+				"map",
+				"infographic"
+			],
+			"technologies": [
+				"D3.js",
+				"JavaScript"
+			],
+			"url": "http://wheredoesmymoneygo.org/",
+			"data": [
+				{
+					"url": "http://wheredoesmymoneygo.org/sources.html"
+				}
+			],
+			"tags": [],
+			"thumbnail": ""
+		},
+		{
+			"title": "Inequality and New York's Subway",
+			"author": {
+				"name": "The New Yorker",
+				"url": "http://www.newyorker.com"
+			},
+			"desc": "Interactive visualization showing wealth in relation to geography with reference to the New York subway system",
+			"type": [
+				"map",
+				"time-series"
+			],
+			"technologies": [
+				"D3.js",
+				"JavaScript"
+			],
+			"url": "http://www.newyorker.com/sandbox/business/subway.html",
+			"data": [
+				{
+					"url": "https://nycopendata.socrata.com/"
+				},
+				{
+					"url": "http://www.census.gov/main/www/access.html"
+				}
+			],
+			"tags": [],
+			"thumbnail": ""
+		},
+		{
+			"title": "HoneyMap",
+			"author": {
+				"name": "Honeynet Project",
+				"url": "http://www.honeynet.org/"
+			},
+			"desc": "Live visualization showing hacking attempts worldwide.",
+			"type": [
+				"map"
+			],
+			"technologies": [
+				"jQuery",
+				"jVectorMap",
+				"jQuery-Transit",
+				"bootstrap",
+				"Nodejs",
+				"Socket.io",
+				"hpfeeds"
+			],
+			"url": "http://map.honeynet.org/",
+			"data": [
+				{
+					"url": "https://github.com/rep/hpfeeds"
+				}
+			],
+			"tags": [],
+			"thumbnail": ""
+		},
+		{
+			"title": "T-Mobile Hacking Map",
+			"author": {
+				"name": "TMobile",
+				"url": ""
+			},
+			"desc": "Live visualization of hacking attempts worldwide. Built using the same technologies as Honeynet.org.",
+			"type": [
+				"map",
+				"table"
+			],
+			"technologies": [
+				"JavaScript"
+			],
+			"url": "http://www.sicherheitstacho.eu/?lang=en",
+			"data": [
+				{
+					"url": ""
+				}
+			],
+			"tags": [],
+			"thumbnail": ""
+		},
+		{
+			"title": "InMaps - Visualize your LinkedIn Network",
+			"author": {
+				"name": "LinkedIn",
+				"url": "http://www.linkedin.com"
+			},
+			"desc": "Interactive force diagram to visualize professional networks.",
+			"type": [
+				"force"
+			],
+			"technologies": [
+				"Raphael.js"
+			],
+			"url": "http://inmaps.linkedinlabs.com/",
+			"data": [
+				{
+					"url": "http://developer.linkedin.com/"
+				}
+			],
+			"tags": [],
+			"thumbnail": ""
+		},
+		{
+			"title": "Wolfram Alpha Facebook Report",
+			"author": {
+				"name": "Wolfram Alpha",
+				"url": "http://www.wolframalpha.com"
+			},
+			"desc": "Several different visualizations of an individual's Facebook graph.",
+			"type": [
+				"time-series",
+				"bar-chart",
+				"force"
+			],
+			"technologies": [
+				""
+			],
+			"url": "http://www.wolframalpha.com/input/?i=facebook+report",
+			"data": [
+				{
+					"url": "https://developers.facebook.com/?ref=pf"
+				}
+			],
+			"tags": [],
+			"thumbnail": ""
+		},
+		{
+			"title": "The Museum of Me",
+			"author": {
+				"name": "Intel",
+				"url": "http://www.intel.com"
+			},
+			"desc": "Immersive experience of individual Facebook graph data.",
+			"type": [
+				"infographic"
+			],
+			"technologies": [
+				"Flash",
+				"ActionScript"
+			],
+			"url": "http://www.intel.com/museumofme/r/index.htm",
+			"data": [
+				{
+					"url": "https://developers.facebook.com/?ref=pf"
+				}
+			],
+			"tags": [],
+			"thumbnail": ""
+		},
+		{
+			"title": "LA Electricity Consumption Map",
+			"author": {
+				"name": "California Center for Sustainable Communities at UCLA",
+				"url": "http://sustainablecommunities.environment.ucla.edu/"
+			},
+			"desc": "Interactive geo-based visualization of electricity consumption.",
+			"type": [
+				"map",
+				"chloropleth"
+			],
+			"technologies": [
+				"Leaflet.js",
+				"JavaScript",
+				"MapBox"
+			],
+			"url": "http://sustainablecommunities.environment.ucla.edu/maproom/index.html",
+			"data": [
+				{
+					"url": ""
+				}
+			],
+			"tags": [],
+			"thumbnail": ""
+		},
+		{
+			"title": "Mozilla Collusion",
+			"author": {
+				"name": "Mozilla",
+				"url": "http://www.mozilla.org"
+			},
+			"desc": "Visualization of ad-tracking software and data sharing during web browsing.",
+			"type": [
+				"force"
+			],
+			"technologies": [
+				"D3.js",
+				"JavaScript"
+			],
+			"url": "http://www.mozilla.org/en-US/collusion/",
+			"data": [
+				{
+					"url": ""
+				}
+			],
+			"tags": [],
+			"thumbnail": ""
+		},
+		{
+			"title": "Discovr",
+			"author": {
+				"name": "Discovr",
+				"url": "http://www.discovr.info"
+			},
+			"desc": "iOS apps for content discovery: Twitter, Apps, Music.",
+			"type": [
+				"force"
+			],
+			"technologies": [
+				"Objective-C"
+			],
+			"url": "http://www.discovr.info",
+			"data": [
+				{
+					"url": ""
+				}
+			],
+			"tags": [],
+			"thumbnail": ""
+		},
+		{
+			"title": "Cost of Living",
+			"author": {
+				"name": "Kai Chang",
+				"url": "http://www.exposedata.com"
+			},
+			"desc": "Interactive visualization to compare living costs around the world.",
+			"type": [
+				"map",
+				"table",
+				"parallel-coordinates"
+			],
+			"technologies": [
+				"D3.js",
+				"JavaScript"
+			],
+			"url": "http://exposedata.com/costofliving/",
+			"data": [
+				{
+					"url": "http://www.numbeo.com"
+				}
+			],
+			"tags": [],
+			"thumbnail": ""
+		}
+	]
+}
