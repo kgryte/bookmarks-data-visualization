@@ -88,6 +88,7 @@
 				"D3.js",
 				"JavaScript"
 			],
+			"url": "http://ilya.boyandin.me/remittances/",
 			"data": [
 				{
 					"url": "http://stats.oecd.org/Index.aspx?DataSetCode=REF_TOTAL_ODF#"
@@ -458,6 +459,54 @@
 			"data": [
 				{
 					"url": "http://www.numbeo.com"
+				}
+			],
+			"tags": [],
+			"thumbnail": ""
+		},
+		{
+			"title": "US Gun Deaths",
+			"author": {
+				"name": "Periscopic",
+				"url": "http://www.periscopic.com/"
+			},
+			"desc": "Interactive visualization and animation of US gun deaths.",
+			"type": [
+				"time-series",
+				"animation"
+			],
+			"technologies": [
+				"jQuery",
+				"easeljs",
+				"TweenMax.js",
+				"Moment.js",
+				"GSAP"
+			],
+			"url": "http://guns.periscopic.com/?year=2013",
+			"data": [
+				{
+					"url": "http://www.fbi.gov/about-us/cjis/ucr/ucr"
+				},
+				{
+					"url": "http://data.un.org/Data.aspx?d=POP&f=tableCode%3A105"
+				}
+			],
+			"tags": [],
+			"thumbnail": ""
+		},
+		{
+			"title": "Project Cascade",
+			"author": {
+				"name": "New York Times",
+				"url": "http://www.nytlabs.com"
+			},
+			"desc": "Structural analysis of sharing activity on the web. A proprietary service offered to partners and clients. Futuristic appearance and unique.",
+			"type": [],
+			"technologies": [],
+			"url": "http://nytlabs.com/projects/cascade.html",
+			"data": [
+				{
+					"url": ""
 				}
 			],
 			"tags": [],
