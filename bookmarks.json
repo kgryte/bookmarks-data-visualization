@@ -511,6 +511,24 @@
 			],
 			"tags": [],
 			"thumbnail": ""
+		},
+		{
+			"title": "Ayasdi Iris",
+			"author": {
+				"name": "Ayasdi",
+				"url": "http://www.ayasdi.com/"
+			},
+			"desc": "Big data analysis and query-free discovery. Uses topological data analysis to reveal data structure.",
+			"type": [],
+			"technologies": [],
+			"url": "http://www.ayasdi.com/product/",
+			"data": [
+				{
+					"url": ""
+				}
+			],
+			"tags": [],
+			"thumbnail": ""
 		}
 	]
 }
