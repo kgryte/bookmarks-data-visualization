@@ -20,7 +20,7 @@ chrome.browserAction.onClicked.addListener( function() {
 
     function success(data) {
 
-        // Open each bookmark in a new tab: (except for the first bookmark)
+        // Open each bookmark in a new tab:
         $.each(data.bookmarks, function(id, val) {
 
             chrome.tabs.create( {url: val.url} );
