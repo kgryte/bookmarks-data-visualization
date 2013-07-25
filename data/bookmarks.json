@@ -97,7 +97,7 @@
 					"url": "http://data.worldbank.org/data-catalog/global-bilateral-migration-database"
 				},
 				{
-					"url": "http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/EXTDECPROSPECTS/0,,contentMDK:22759429~pagePK:64165401~piPK:64165026~theSitePK:476883,00.html"	
+					"url": "http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/EXTDECPROSPECTS/0,,contentMDK:22759429~pagePK:64165401~piPK:64165026~theSitePK:476883,00.html"
 				}
 			],
 			"tags": [],
@@ -525,6 +525,31 @@
 			"data": [
 				{
 					"url": ""
+				}
+			],
+			"tags": [],
+			"thumbnail": ""
+		},
+		{
+			"title": "Transit Time NYC",
+			"author": {
+				"name": "WNYC",
+				"url": "http://www.wnyc.org/"
+			},
+			"desc": "Subway travel time from any starting point to everywhere else in NYC.",
+			"type": [],
+			"technologies": [
+				"Mapbox",
+				"OpenStreetMap",
+				"Leaflet"
+			],
+			"url": "http://project.wnyc.org/transit-time/",
+			"data": [
+				{
+					"url": "http://www.mta.info/developers/download.html"
+				},
+				{
+					"url": "http://opentripplanner.com/"
 				}
 			],
 			"tags": [],
