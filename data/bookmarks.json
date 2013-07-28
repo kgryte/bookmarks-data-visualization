@@ -21,7 +21,7 @@
 				}
 			],
 			"tags": [],
-			"thumbnail": ""
+			"thumbnail": "../img/thumbnails/thumbnail_world_bank_development_sprint_200x125px.png"
 		},
 		{
 			"title": "Github Visualizer",
@@ -44,7 +44,7 @@
 				}
 			],
 			"tags": [],
-			"thumbnail": ""
+			"thumbnail": "../img/thumbnails/thumbnail_github_visualizer_200x125px.png"
 		},
 		{
 			"title": "Tweetping",
@@ -70,7 +70,7 @@
 				}
 			],
 			"tags": [],
-			"thumbnail": ""
+			"thumbnail": "../img/thumbnails/thumbnail_tweetping_200x125px.png"
 		},
 		{
 			"title": "Worldwide Remittance Flows",
@@ -101,7 +101,7 @@
 				}
 			],
 			"tags": [],
-			"thumbnail": ""
+			"thumbnail": "../img/thumbnails/thumbnail_worldwide_remittance_flows_200x125px.png"
 		},
 		{
 			"title": "Gapminder",
@@ -125,7 +125,7 @@
 				}
 			],
 			"tags": [],
-			"thumbnail": ""
+			"thumbnail": "../img/thumbnails/thumbnail_gapminder_200x125px.png"
 		},
 		{
 			"title": "The Wealth and Health of Nations",
@@ -149,7 +149,7 @@
 				}
 			],
 			"tags": [],
-			"thumbnail": ""
+			"thumbnail": "../img/thumbnails/thumbnail_the_wealth_and_health_of_nations_200x125px.png"
 		},
 		{
 			"title": "Small Arms Imports and Exports",
@@ -173,7 +173,7 @@
 				}
 			],
 			"tags": [],
-			"thumbnail": ""
+			"thumbnail": "../img/thumbnails/thumbnail_small_arms_imports_and_exports_200x125px.png"
 		},
 		{
 			"title": "Evolution of the Web",
@@ -196,7 +196,7 @@
 				}
 			],
 			"tags": [],
-			"thumbnail": ""
+			"thumbnail": "../img/thumbnails/thumbnail_evolution_of_the_web_200x125px.png"
 		},
 		{
 			"title": "Where Does My Money Go?",
@@ -220,7 +220,7 @@
 				}
 			],
 			"tags": [],
-			"thumbnail": ""
+			"thumbnail": "../img/thumbnails/thumbnail_where_does_my_money_go_200x125px.png"
 		},
 		{
 			"title": "Inequality and New York's Subway",
@@ -247,7 +247,7 @@
 				}
 			],
 			"tags": [],
-			"thumbnail": ""
+			"thumbnail": "../img/thumbnails/thumbnail_inequality_and_new_york's_subway_200x125px.png"
 		},
 		{
 			"title": "HoneyMap",
@@ -275,7 +275,7 @@
 				}
 			],
 			"tags": [],
-			"thumbnail": ""
+			"thumbnail": "../img/thumbnails/thumbnail_honeymap_200x125px.png"
 		},
 		{
 			"title": "T-Mobile Hacking Map",
@@ -298,7 +298,7 @@
 				}
 			],
 			"tags": [],
-			"thumbnail": ""
+			"thumbnail": "../img/thumbnails/thumbnail_t-mobile_hacking_map_200x125px.png"
 		},
 		{
 			"title": "InMaps - Visualize your LinkedIn Network",
@@ -320,7 +320,7 @@
 				}
 			],
 			"tags": [],
-			"thumbnail": ""
+			"thumbnail": "../img/thumbnails/thumbnail_inmaps_-_visualize_your_linkedin_network_200x125px.png"
 		},
 		{
 			"title": "Wolfram Alpha Facebook Report",
@@ -344,7 +344,7 @@
 				}
 			],
 			"tags": [],
-			"thumbnail": ""
+			"thumbnail": "../img/thumbnails/thumbnail_wolfram_alpha_facebook_report_200x125px.png"
 		},
 		{
 			"title": "The Museum of Me",
@@ -367,7 +367,7 @@
 				}
 			],
 			"tags": [],
-			"thumbnail": ""
+			"thumbnail": "../img/thumbnails/thumbnail_the_museum_of_me_200x125px.png"
 		},
 		{
 			"title": "LA Electricity Consumption Map",
@@ -392,7 +392,7 @@
 				}
 			],
 			"tags": [],
-			"thumbnail": ""
+			"thumbnail": "../img/thumbnails/thumbnail_la_electricity_consumption_map_200x125px.png"
 		},
 		{
 			"title": "Mozilla Collusion",
@@ -415,7 +415,7 @@
 				}
 			],
 			"tags": [],
-			"thumbnail": ""
+			"thumbnail": "../img/thumbnails/thumbnail_mozilla_collusion_200x125px.png"
 		},
 		{
 			"title": "Discovr",
@@ -437,7 +437,7 @@
 				}
 			],
 			"tags": [],
-			"thumbnail": ""
+			"thumbnail": "../img/thumbnails/thumbnail_discovr_200x125px.png"
 		},
 		{
 			"title": "Cost of Living",
@@ -462,7 +462,7 @@
 				}
 			],
 			"tags": [],
-			"thumbnail": ""
+			"thumbnail": "../img/thumbnails/thumbnail_cost_of_living_200x125px.png"
 		},
 		{
 			"title": "US Gun Deaths",
@@ -492,7 +492,7 @@
 				}
 			],
 			"tags": [],
-			"thumbnail": ""
+			"thumbnail": "../img/thumbnails/thumbnail_us_gun_deaths_200x125px.png"
 		},
 		{
 			"title": "Project Cascade",
@@ -510,7 +510,7 @@
 				}
 			],
 			"tags": [],
-			"thumbnail": ""
+			"thumbnail": "../img/thumbnails/thumbnail_project_cascade_200x125px.png"
 		},
 		{
 			"title": "Ayasdi Iris",
@@ -528,7 +528,7 @@
 				}
 			],
 			"tags": [],
-			"thumbnail": ""
+			"thumbnail": "../img/thumbnails/thumbnail_ayasdi_iris_200x125px.png"
 		},
 		{
 			"title": "Transit Time NYC",
@@ -553,7 +553,7 @@
 				}
 			],
 			"tags": [],
-			"thumbnail": ""
+			"thumbnail": "../img/thumbnails/thumbnail_transit_time_nyc_200x125px.png"
 		}
 	]
 }
