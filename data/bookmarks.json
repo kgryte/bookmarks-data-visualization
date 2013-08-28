@@ -554,6 +554,33 @@
 			],
 			"tags": [],
 			"thumbnail": "../img/thumbnails/thumbnail_transit_time_nyc_200x125px.png"
+		},
+		{
+			"title": "US Census Data: Demographics",
+			"author": {
+				"name": "Dustin Cable",
+				"url": "http://www.coopercenter.org/demographics/staff/dustin-cable"
+			},
+			"desc": "2010 US Census data broken down in terms of racial demographics and shown on a map",
+			"type": [
+				"map"
+			],
+			"technologies": [
+				"GoogleMaps",
+				"StamenMaps",
+				"Processing"
+			],
+			"url": "http://demographics.coopercenter.org/DotMap/index.html",
+			"data": [
+				{
+					"url": "https://www.nhgis.org/"
+				},
+				{
+					"url": "https://github.com/unorthodox123/RacialDotMap"
+				}
+			],
+			"tags": [],
+			"thumbnail": ""
 		}
 	]
 }
